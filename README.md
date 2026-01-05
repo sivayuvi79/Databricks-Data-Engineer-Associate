@@ -1,9 +1,3 @@
-Below is a **cleaned, de-duplicated README** with **unwanted repetitions removed** and your **previous detailed project overview incorporated** in a consolidated way. I kept it professional and ready to paste directly into GitHub.
-
-You can tell me if you want it shorter, more formal, or more beginner-friendly.
-
----
-
 # Databricks – Data Engineer Associate Practice Repository
 
 This repository contains hands-on exercises, sample data, and Databricks notebooks designed to practice core workflows for the **Databricks Data Engineer Associate certification** while simultaneously implementing a **real end-to-end data engineering project**.
